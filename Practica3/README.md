@@ -12,5 +12,12 @@ Pide una cadena al usuario con `ReadString` y la valida con el procedimiento `Es
 
 **Resultado obtenido en mi ejecución:**
 ```
-[Pega aquí la salida real de tu ejecución]
+Prueba 1 (solo Enter):
+Ingresa una cadena (o presiona Enter para dejarla vacia):
+La cadena ESTA vacia.
+
+Prueba 2 (texto "mAIstro"):
+Ingresa una cadena (o presiona Enter para dejarla vacia): mAIstro
+La cadena NO esta vacia.
+
 ```
