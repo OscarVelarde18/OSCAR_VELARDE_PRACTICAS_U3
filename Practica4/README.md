@@ -12,5 +12,10 @@ Empuja dos valores (1 y 2) a la pila y llama a `sumarPila`, que crea un marco de
 
 **Resultado obtenido en mi ejecución:**
 ```
-[Pega aquí la salida real de tu ejecución]
++2
+
+Depurador (Visual Studio):
+Antes de push 1:  EBX = 0000000A, ESP = 008FFF68
+En el nop:        EBX = 0000000A, ESP = 008FFF68, EAX = 00000002
+
 ```
