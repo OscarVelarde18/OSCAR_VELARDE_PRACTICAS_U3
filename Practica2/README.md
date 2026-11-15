@@ -13,5 +13,9 @@ Lee la cima de la pila (`[ESP]`) en tres puntos: en `main`, dentro de `procUno` 
 
 **Resultado obtenido en mi ejecución:**
 ```
-[Pega aquí la salida real de tu ejecución]
+76775D49
+00503682
+0050369B
+
+Los dos últimos valores son direcciones de retorno distintas (hacia main y hacia procUno).
 ```
