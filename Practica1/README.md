@@ -12,5 +12,8 @@ Muestra un mensaje de inicio, llama dos veces al procedimiento `mensajeAviso` (q
 
 **Resultado obtenido en mi ejecución:**
 ```
-[Pega aquí la salida real de tu ejecución]
+inicio de programa
+Estoy dentro del procedimiento
+Estoy dentro del procedimiento
+Fin del programa
 ```
