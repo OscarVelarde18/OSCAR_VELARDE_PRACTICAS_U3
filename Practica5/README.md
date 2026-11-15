@@ -11,5 +11,8 @@ Define dos macros: `MostrarMensaje` (imprime una cadena con salto de línea) y `
 
 **Resultado obtenido en mi ejecución:**
 ```
-[Pega aquí la salida real de tu ejecución]
+Bienvenido al sistema
+Nos vemos!
++20
+
 ```
